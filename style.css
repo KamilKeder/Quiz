@@ -1,0 +1,31 @@
+#container_app{
+	border: 1px solid black;
+	width: 400px;
+	margin: auto;
+	margin-top: 10%;
+	text-align: center;
+}
+.button_odpowiedz{
+	display: inline-block;
+	cursor: pointer;
+}
+.ukryty{
+	display: none;
+}
+button{
+	background-color: #F0F0F0;
+	cursor: pointer;
+	border: 1px solid black;
+	padding: 2px 10px;
+	margin: 10px;
+}
+
+#button_start{
+	padding: 2px 10px;
+}
+button:hover{
+	background-color: gray;
+}
+#div_pytania{
+	margin-top: 10px;
+}
