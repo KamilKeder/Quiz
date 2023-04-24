@@ -69,7 +69,7 @@ function losowanie(){
 		losowanie !== los4){
 	if (losowanie == 1) {
 		los1 = 1;
-		document.getElementById("div_pytanie").innerHTML = "W którym roku była wojna pod grunwaldem?";
+		document.getElementById("div_pytanie").innerHTML = "W którym roku była Bitwa pod Grunwaldem?";
 		document.querySelector("#odpowiedz_A").innerHTML = "1921";
 		document.querySelector("#odpowiedz_B").innerHTML = "1410";
 		document.querySelector("#odpowiedz_C").innerHTML = "1919";
